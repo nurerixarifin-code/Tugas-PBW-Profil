@@ -1,0 +1,12 @@
+7. Student Reflection 
+1. What is the difference between an HTML tag and an HTML element? 
+Answer:An HTML tag is the syntax used to mark the beginning or end of an instruction, enclosed in angle brackets (e.g., <p> or </p>). An HTML element includes everything from the opening tag, the content inside it, to the closing tag (e.g., <p>This is a paragraph.</p>).
+
+2. Why do we use semantic elements such as <header>, <main>, and <footer>? 
+Answer: Semantic elements give meaning to the structure of a web page rather than just defining its appearance. They help search engines (SEO) understand the content structure, improve accessibility for screen readers used by visually impaired users, and make the code easier for developers to read and maintain. 
+
+3. What problem did you encounter while building or running your website, and how did you solve it? 
+Answer: One problem I encountered was that the profile image did not display correctly when accessed via http://localhost/assignment2/. I solved it by checking the file path in the <img> tag and ensuring that the image file was placed inside the images/ subfolder with the exact filename
+
+4. If you had more time, what would you improve about your website? 
+Answer:If I had more time, I would apply CSS styling to make the website visually appealing with proper layout, typography, and responsive design for mobile devices. I would also add JavaScript to introduce interactive features such as a contact form validation or theme switcher.
